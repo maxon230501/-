@@ -14,6 +14,6 @@
 
 ![Регистрация](https://github.com/maxon230501/JTSRPO/blob/main/docs/diagrams/images/switchScreenFlyState.drawio.png)
   
-### 3. Просмотр фильма<a name="3"></a>
+### 3. Просмотр рейсов<a name="3"></a>
 
 ![Создание события](https://github.com/maxon230501/JTSRPO/blob/main/docs/diagrams/images/checkFlyState.drawio.png)
